@@ -1,0 +1,111 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "jos"
+    },
+    {
+      "id": "2",
+      "name": "yanko"
+    },
+    {
+      "id": "3",
+      "name": "champion"
+    },
+    {
+      "users": {},
+      "id": "xBJ7KV0"
+    },
+    {
+      "users": {},
+      "id": "yKO435I"
+    },
+    {
+      "users": {},
+      "id": "DpCZWdb"
+    },
+    {
+      "users": {},
+      "id": "tt5h3on"
+    },
+    {
+      "users": {},
+      "id": "YqhIV-m"
+    },
+    {
+      "users": {},
+      "id": "jz4nhzy"
+    },
+    {
+      "users": {},
+      "id": "OtPehJ_"
+    },
+    {
+      "users": {},
+      "id": "VnkL3F3"
+    },
+    {
+      "users": {},
+      "id": "I-NgDSA"
+    },
+    {
+      "users": {},
+      "id": "SnS0_Cp"
+    },
+    {
+      "users": {},
+      "id": "EDyyAsA"
+    },
+    {
+      "users": {},
+      "id": "oSnPfkC"
+    },
+    {
+      "users": {},
+      "id": "Zpi61Zl"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "name": "Little brother"
+    },
+    {
+      "id": "2",
+      "name": "My friend"
+    },
+    {
+      "id": "3",
+      "name": "Nephew"
+    },
+    {
+      "users": {},
+      "id": "caPgc21"
+    },
+    {
+      "users": {},
+      "id": "VFMB7SM"
+    },
+    {
+      "users": {
+        "firstName": "Fred",
+        "lastName": "Flintstone"
+      },
+      "id": "t_cY5aq"
+    },
+    {
+      "users": {
+        "firstName": "Fred",
+        "lastName": "Flintstone"
+      },
+      "id": "vgef2ux"
+    },
+    {
+      "users": {
+        "firstName": "Fred",
+        "lastName": "Flintstone"
+      },
+      "id": "J761f5r"
+    }
+  ]
+}
